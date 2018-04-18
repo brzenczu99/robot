@@ -1,0 +1,15 @@
+.bg{
+    background-image: url("D:/xampp/htdocs/robot/img/bg2");
+    height: 100%; 
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    filter: Blur(Add=1, Direction=45, Strength=100);
+}
+.calib
+{
+    text-align: center;
+    color: white;
+    font-size: 10vh; 
+    position: absolute; width: 100%; top: 30%;
+}
